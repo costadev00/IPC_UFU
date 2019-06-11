@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1554902675 source:c:\users\mathe\lucro\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1557847265 source:c:\users\mathe\caixa_supermercado\main.c
+	<stdio.h>
+	<stdlib.h>
+

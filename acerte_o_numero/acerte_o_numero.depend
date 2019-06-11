@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1560288397 source:c:\users\mathe\ipc\acerte_o_numero\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1554905653 source:c:\users\mathe\custo_carro\main.c
+	<stdio.h>
+	<stdlib.h>
+
