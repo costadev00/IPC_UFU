@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1560373495 source:c:\users\mathe\ipc\ex1_lista5\main.c
+	<stdio.h>
+	<stdlib.h>
+
