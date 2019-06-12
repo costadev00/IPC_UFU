@@ -1,9 +1,9 @@
-#include<stdio.h>
-#include<stdlib.h>
+#include <stdio.h>
+#include <stdlib.h>
 
 int main()
 {
-    float custo_consumidor ,percentagem_distribuidor, imposto, custo_total;
+    float custo_consumidor, percentagem_distribuidor, imposto, custo_total;
 
     printf("QUAL FOI O CUSTO DO CARRO?");
     scanf("%f", &custo);
