@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1560817774 source:c:\users\mathe\ipc\tv\main.c
+	<stdio.h>
+	<stdlib.h>
+

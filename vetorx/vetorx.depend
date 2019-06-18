@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1560818529 source:c:\users\mathe\ipc\vetorx\main.c
+	<stdio.h>
+	<stdlib.h>
+
