@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1562091809 source:c:\users\mathe\ipc\projectx\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

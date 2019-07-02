@@ -4,6 +4,7 @@
 int main()
 {
     int vet[4], x;
+    do{
     scanf("%d", &x);
     for(int i = 0;i<4;i++){
         scanf("%d", &vet[i]);
@@ -16,5 +17,6 @@ int main()
             printf("x nao foi encontrado na posicao %d \n", vet[i]);
         }
     }
+    }while(x!=0);
     return 0;
 }
