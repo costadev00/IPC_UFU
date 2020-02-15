@@ -150,7 +150,7 @@ int main()
 
                     if (op==1)
                     {
-                        int mat3[coluna1][linha2];
+                        int mat3[linha1][coluna2];
 
                         if (coluna1!=linha2)
                         {
@@ -410,9 +410,9 @@ int main()
 
                         //CHECANDO A INTERSECCAO
 
-                        for (int i = 0; i < k3; i++)
+                        for (int i = 0; i < k; i++)
                         {
-                            for (int j = 0; j < k3; j++)
+                            for (int j = 0; j < k2; j++)
                             {
                                 if (vet[i] == vet2[j])
                                 {
@@ -423,6 +423,12 @@ int main()
                         }
 
                         //TIRANDO OS NUMEROS IGUAIS
+
+
+                        for (int i = 0; i < y; i++)
+                        {
+                            printf("%d\t", vet3[i]);
+                        }
 
                         for (int i = 0; i < y; ++i)
                         {

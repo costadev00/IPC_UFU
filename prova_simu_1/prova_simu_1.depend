@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1562164728 source:c:\users\mathe\ipc\prova_simu_1\main.c
+	<stdio.h>
+	<stdlib.h>
+
