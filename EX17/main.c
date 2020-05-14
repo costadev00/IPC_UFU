@@ -20,6 +20,6 @@ menor = num;
 }
 printf("Maior %d\n", maior);
 printf("Menor %d\n", menor);
-printf("A MEDIA DESSA PORRRA EH: %d \n", media);
+printf("A MEDIA EH: %d \n", media);
 return 0;
 }
